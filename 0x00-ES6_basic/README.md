@@ -1,4 +1,5 @@
-Project: ES6 Basics Author: Samuel Atiemo
+Project: ES6 Basics 
+Author: Samuel Atiemo
 
 Project Tasks:
 
